@@ -1,6 +1,6 @@
 # Mobile Automation Project
 
-Automates testing for the **Akesa Health mobile app** using **WebdriverIO + Appium** with **TypeScript**, **Mocha**, and **Allure reporting**.
+Automates testing using **WebdriverIO + Appium** with **TypeScript**, **Mocha**, and **Allure reporting**.
 
 ---
 
